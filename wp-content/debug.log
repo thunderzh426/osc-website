@@ -1,0 +1,507 @@
+[21-Nov-2016 15:47:56 UTC] PHP Warning:  mysql_connect(): Headers and client library minor version mismatch. Headers:50547 Library:50631 in /var/www/html/osc-default/wp-includes/wp-db.php on line 1515
+[21-Nov-2016 15:47:56 UTC] PHP Warning:  mysql_connect(): Headers and client library minor version mismatch. Headers:50547 Library:50631 in /var/www/html/osc-default/wp-includes/wp-db.php on line 1515
+[21-Nov-2016 15:47:56 UTC] PHP Notice:  Trying to get property of non-object in /var/www/html/osc-default/wp-content/themes/osc/sidebar.php on line 5
+[21-Nov-2016 15:47:56 UTC] PHP Notice:  Undefined variable: webinar_catID in /var/www/html/osc-default/wp-content/themes/osc/sidebar.php on line 42
+[21-Nov-2016 15:47:56 UTC] PHP Notice:  Undefined variable: post_catID in /var/www/html/osc-default/wp-content/themes/osc/sidebar.php on line 73
+[21-Nov-2016 15:47:56 UTC] PHP Notice:  Undefined variable: whitepaper_catID in /var/www/html/osc-default/wp-content/themes/osc/sidebar.php on line 106
+[21-Nov-2016 15:47:58 UTC] PHP Warning:  mysql_connect(): Headers and client library minor version mismatch. Headers:50547 Library:50631 in /var/www/html/osc-default/wp-includes/wp-db.php on line 1515
+[21-Nov-2016 15:47:58 UTC] PHP Notice:  Undefined variable: webinar_catID in /var/www/html/osc-default/wp-content/themes/osc/sidebar.php on line 42
+[21-Nov-2016 15:47:58 UTC] PHP Notice:  Undefined variable: post_catID in /var/www/html/osc-default/wp-content/themes/osc/sidebar.php on line 73
+[21-Nov-2016 15:47:58 UTC] PHP Notice:  Undefined variable: whitepaper_catID in /var/www/html/osc-default/wp-content/themes/osc/sidebar.php on line 106
+[21-Nov-2016 15:47:58 UTC] PHP Warning:  mysql_connect(): Headers and client library minor version mismatch. Headers:50547 Library:50631 in /var/www/html/osc-default/wp-includes/wp-db.php on line 1515
+[21-Nov-2016 15:47:58 UTC] PHP Warning:  mysql_connect(): Headers and client library minor version mismatch. Headers:50547 Library:50631 in /var/www/html/osc-default/wp-includes/wp-db.php on line 1515
+[21-Nov-2016 15:47:59 UTC] PHP Notice:  Trying to get property of non-object in /var/www/html/osc-default/wp-content/themes/osc/sidebar.php on line 5
+[21-Nov-2016 15:47:59 UTC] PHP Notice:  Undefined variable: webinar_catID in /var/www/html/osc-default/wp-content/themes/osc/sidebar.php on line 42
+[21-Nov-2016 15:47:59 UTC] PHP Notice:  Undefined variable: post_catID in /var/www/html/osc-default/wp-content/themes/osc/sidebar.php on line 73
+[21-Nov-2016 15:47:59 UTC] PHP Notice:  Undefined variable: whitepaper_catID in /var/www/html/osc-default/wp-content/themes/osc/sidebar.php on line 106
+[21-Nov-2016 15:47:59 UTC] PHP Warning:  mysql_connect(): Headers and client library minor version mismatch. Headers:50547 Library:50631 in /var/www/html/osc-default/wp-includes/wp-db.php on line 1515
+[21-Nov-2016 15:48:04 UTC] PHP Warning:  mysql_connect(): Headers and client library minor version mismatch. Headers:50547 Library:50631 in /var/www/html/osc-default/wp-includes/wp-db.php on line 1515
+[21-Nov-2016 15:48:05 UTC] PHP Notice:  Undefined variable: webinar_catID in /var/www/html/osc-default/wp-content/themes/osc/sidebar.php on line 42
+[21-Nov-2016 15:48:05 UTC] PHP Notice:  Undefined variable: post_catID in /var/www/html/osc-default/wp-content/themes/osc/sidebar.php on line 73
+[21-Nov-2016 15:48:05 UTC] PHP Notice:  Undefined variable: whitepaper_catID in /var/www/html/osc-default/wp-content/themes/osc/sidebar.php on line 106
+[21-Nov-2016 15:48:05 UTC] PHP Warning:  mysql_connect(): Headers and client library minor version mismatch. Headers:50547 Library:50631 in /var/www/html/osc-default/wp-includes/wp-db.php on line 1515
+[21-Nov-2016 15:48:05 UTC] PHP Warning:  mysql_connect(): Headers and client library minor version mismatch. Headers:50547 Library:50631 in /var/www/html/osc-default/wp-includes/wp-db.php on line 1515
+[21-Nov-2016 15:48:05 UTC] PHP Notice:  Trying to get property of non-object in /var/www/html/osc-default/wp-content/themes/osc/sidebar.php on line 5
+[21-Nov-2016 15:48:05 UTC] PHP Notice:  Undefined variable: webinar_catID in /var/www/html/osc-default/wp-content/themes/osc/sidebar.php on line 42
+[21-Nov-2016 15:48:05 UTC] PHP Notice:  Undefined variable: post_catID in /var/www/html/osc-default/wp-content/themes/osc/sidebar.php on line 73
+[21-Nov-2016 15:48:05 UTC] PHP Notice:  Undefined variable: whitepaper_catID in /var/www/html/osc-default/wp-content/themes/osc/sidebar.php on line 106
+[21-Nov-2016 15:48:07 UTC] PHP Warning:  mysql_connect(): Headers and client library minor version mismatch. Headers:50547 Library:50631 in /var/www/html/osc-default/wp-includes/wp-db.php on line 1515
+[21-Nov-2016 15:50:09 UTC] PHP Warning:  mysql_connect(): Headers and client library minor version mismatch. Headers:50547 Library:50631 in /var/www/html/osc-default/wp-includes/wp-db.php on line 1515
+[21-Nov-2016 15:50:25 UTC] PHP Warning:  mysql_connect(): Headers and client library minor version mismatch. Headers:50547 Library:50631 in /var/www/html/osc-default/wp-includes/wp-db.php on line 1515
+[21-Nov-2016 15:50:25 UTC] PHP Notice:  Undefined offset: 1 in /var/www/html/osc-default/wp-content/plugins/ads-by-datafeedrcom/inc/dfads.class.php on line 61
+[21-Nov-2016 15:50:28 UTC] PHP Warning:  mysql_connect(): Headers and client library minor version mismatch. Headers:50547 Library:50631 in /var/www/html/osc-default/wp-includes/wp-db.php on line 1515
+[21-Nov-2016 15:50:42 UTC] PHP Warning:  mysql_connect(): Headers and client library minor version mismatch. Headers:50547 Library:50631 in /var/www/html/osc-default/wp-includes/wp-db.php on line 1515
+[21-Nov-2016 15:50:42 UTC] PHP Notice:  Undefined variable: webinar_catID in /var/www/html/osc-default/wp-content/themes/osc/sidebar.php on line 42
+[21-Nov-2016 15:50:42 UTC] PHP Notice:  Undefined variable: post_catID in /var/www/html/osc-default/wp-content/themes/osc/sidebar.php on line 73
+[21-Nov-2016 15:50:42 UTC] PHP Notice:  Undefined variable: whitepaper_catID in /var/www/html/osc-default/wp-content/themes/osc/sidebar.php on line 106
+[21-Nov-2016 15:50:43 UTC] PHP Warning:  mysql_connect(): Headers and client library minor version mismatch. Headers:50547 Library:50631 in /var/www/html/osc-default/wp-includes/wp-db.php on line 1515
+[21-Nov-2016 15:50:43 UTC] PHP Warning:  mysql_connect(): Headers and client library minor version mismatch. Headers:50547 Library:50631 in /var/www/html/osc-default/wp-includes/wp-db.php on line 1515
+[21-Nov-2016 15:50:43 UTC] PHP Notice:  Trying to get property of non-object in /var/www/html/osc-default/wp-content/themes/osc/sidebar.php on line 5
+[21-Nov-2016 15:50:43 UTC] PHP Notice:  Undefined variable: webinar_catID in /var/www/html/osc-default/wp-content/themes/osc/sidebar.php on line 42
+[21-Nov-2016 15:50:43 UTC] PHP Notice:  Undefined variable: post_catID in /var/www/html/osc-default/wp-content/themes/osc/sidebar.php on line 73
+[21-Nov-2016 15:50:43 UTC] PHP Notice:  Undefined variable: whitepaper_catID in /var/www/html/osc-default/wp-content/themes/osc/sidebar.php on line 106
+[21-Nov-2016 15:51:02 UTC] PHP Warning:  mysql_connect(): Headers and client library minor version mismatch. Headers:50547 Library:50631 in /var/www/html/osc-default/wp-includes/wp-db.php on line 1515
+[21-Nov-2016 15:51:08 UTC] PHP Warning:  mysql_connect(): Headers and client library minor version mismatch. Headers:50547 Library:50631 in /var/www/html/osc-default/wp-includes/wp-db.php on line 1515
+[21-Nov-2016 15:51:08 UTC] PHP Fatal error:  Uncaught exception 'Braintree\Exception' with message 'The Braintree library requires the xmlwriter extension.' in /var/www/html/osc-default/wp-content/plugins/woocommerce-gateway-paypal-powered-by-braintree/braintree_sdk/lib/Braintree.php:20
+Stack trace:
+#0 /var/www/html/osc-default/wp-content/plugins/woocommerce-gateway-paypal-powered-by-braintree/braintree_sdk/lib/Braintree.php(25): requireDependencies()
+#1 /var/www/html/osc-default/wp-content/plugins/woocommerce-gateway-paypal-powered-by-braintree/woocommerce-gateway-paypal-powered-by-braintree.php(426): require_once('/var/www/html/o...')
+#2 [internal function]: WC_PayPal_Braintree_Loader->possibly_enqueue_scripts('')
+#3 /var/www/html/osc-default/wp-includes/plugin.php(525): call_user_func_array(Array, Array)
+#4 /var/www/html/osc-default/wp-includes/script-loader.php(1076): do_action('wp_enqueue_scri...')
+#5 [internal function]: wp_enqueue_scripts('')
+#6 /var/www/html/osc-default/wp-includes/plugin.php(525): call_user_func_array('wp_enqueue_scri...', Arra in /var/www/html/osc-default/wp-content/plugins/woocommerce-gateway-paypal-powered-by-braintree/braintree_sdk/lib/Braintree.php on line 20
+[21-Nov-2016 15:51:15 UTC] PHP Warning:  mysql_connect(): Headers and client library minor version mismatch. Headers:50547 Library:50631 in /var/www/html/osc-default/wp-includes/wp-db.php on line 1515
+[21-Nov-2016 15:52:01 UTC] PHP Warning:  mysql_connect(): Headers and client library minor version mismatch. Headers:50547 Library:50631 in /var/www/html/osc-default/wp-includes/wp-db.php on line 1515
+[21-Nov-2016 15:52:24 UTC] PHP Warning:  mysql_connect(): Headers and client library minor version mismatch. Headers:50547 Library:50631 in /var/www/html/osc-default/wp-includes/wp-db.php on line 1515
+[21-Nov-2016 15:53:00 UTC] PHP Warning:  mysql_connect(): Headers and client library minor version mismatch. Headers:50547 Library:50631 in /var/www/html/osc-default/wp-includes/wp-db.php on line 1515
+[21-Nov-2016 15:53:18 UTC] PHP Warning:  mysql_connect(): Headers and client library minor version mismatch. Headers:50547 Library:50631 in /var/www/html/osc-default/wp-includes/wp-db.php on line 1515
+[21-Nov-2016 15:54:20 UTC] PHP Warning:  mysql_connect(): Headers and client library minor version mismatch. Headers:50547 Library:50631 in /var/www/html/osc-default/wp-includes/wp-db.php on line 1515
+[21-Nov-2016 15:55:14 UTC] PHP Warning:  mysql_connect(): Headers and client library minor version mismatch. Headers:50547 Library:50631 in /var/www/html/osc-default/wp-includes/wp-db.php on line 1515
+[21-Nov-2016 15:55:14 UTC] PHP Fatal error:  Uncaught exception 'Braintree\Exception' with message 'The Braintree library requires the xmlwriter extension.' in /var/www/html/osc-default/wp-content/plugins/woocommerce-gateway-paypal-powered-by-braintree/braintree_sdk/lib/Braintree.php:20
+Stack trace:
+#0 /var/www/html/osc-default/wp-content/plugins/woocommerce-gateway-paypal-powered-by-braintree/braintree_sdk/lib/Braintree.php(25): requireDependencies()
+#1 /var/www/html/osc-default/wp-content/plugins/woocommerce-gateway-paypal-powered-by-braintree/woocommerce-gateway-paypal-powered-by-braintree.php(426): require_once('/var/www/html/o...')
+#2 [internal function]: WC_PayPal_Braintree_Loader->possibly_enqueue_scripts('')
+#3 /var/www/html/osc-default/wp-includes/plugin.php(525): call_user_func_array(Array, Array)
+#4 /var/www/html/osc-default/wp-includes/script-loader.php(1076): do_action('wp_enqueue_scri...')
+#5 [internal function]: wp_enqueue_scripts('')
+#6 /var/www/html/osc-default/wp-includes/plugin.php(525): call_user_func_array('wp_enqueue_scri...', Arra in /var/www/html/osc-default/wp-content/plugins/woocommerce-gateway-paypal-powered-by-braintree/braintree_sdk/lib/Braintree.php on line 20
+[21-Nov-2016 15:55:16 UTC] PHP Warning:  mysql_connect(): Headers and client library minor version mismatch. Headers:50547 Library:50631 in /var/www/html/osc-default/wp-includes/wp-db.php on line 1515
+[21-Nov-2016 15:55:16 UTC] PHP Fatal error:  Uncaught exception 'Braintree\Exception' with message 'The Braintree library requires the xmlwriter extension.' in /var/www/html/osc-default/wp-content/plugins/woocommerce-gateway-paypal-powered-by-braintree/braintree_sdk/lib/Braintree.php:20
+Stack trace:
+#0 /var/www/html/osc-default/wp-content/plugins/woocommerce-gateway-paypal-powered-by-braintree/braintree_sdk/lib/Braintree.php(25): requireDependencies()
+#1 /var/www/html/osc-default/wp-content/plugins/woocommerce-gateway-paypal-powered-by-braintree/woocommerce-gateway-paypal-powered-by-braintree.php(426): require_once('/var/www/html/o...')
+#2 [internal function]: WC_PayPal_Braintree_Loader->possibly_enqueue_scripts('')
+#3 /var/www/html/osc-default/wp-includes/plugin.php(525): call_user_func_array(Array, Array)
+#4 /var/www/html/osc-default/wp-includes/script-loader.php(1076): do_action('wp_enqueue_scri...')
+#5 [internal function]: wp_enqueue_scripts('')
+#6 /var/www/html/osc-default/wp-includes/plugin.php(525): call_user_func_array('wp_enqueue_scri...', Arra in /var/www/html/osc-default/wp-content/plugins/woocommerce-gateway-paypal-powered-by-braintree/braintree_sdk/lib/Braintree.php on line 20
+[21-Nov-2016 15:55:24 UTC] PHP Warning:  mysql_connect(): Headers and client library minor version mismatch. Headers:50547 Library:50631 in /var/www/html/osc-default/wp-includes/wp-db.php on line 1515
+[21-Nov-2016 15:56:20 UTC] PHP Warning:  mysql_connect(): Headers and client library minor version mismatch. Headers:50547 Library:50631 in /var/www/html/osc-default/wp-includes/wp-db.php on line 1515
+[21-Nov-2016 15:57:37 UTC] PHP Warning:  mysql_connect(): Headers and client library minor version mismatch. Headers:50547 Library:50631 in /var/www/html/osc-default/wp-includes/wp-db.php on line 1515
+[21-Nov-2016 15:57:37 UTC] PHP Fatal error:  Uncaught exception 'Braintree\Exception' with message 'The Braintree library requires the xmlwriter extension.' in /var/www/html/osc-default/wp-content/plugins/woocommerce-gateway-paypal-powered-by-braintree/braintree_sdk/lib/Braintree.php:20
+Stack trace:
+#0 /var/www/html/osc-default/wp-content/plugins/woocommerce-gateway-paypal-powered-by-braintree/braintree_sdk/lib/Braintree.php(25): requireDependencies()
+#1 /var/www/html/osc-default/wp-content/plugins/woocommerce-gateway-paypal-powered-by-braintree/woocommerce-gateway-paypal-powered-by-braintree.php(426): require_once('/var/www/html/o...')
+#2 [internal function]: WC_PayPal_Braintree_Loader->possibly_enqueue_scripts('')
+#3 /var/www/html/osc-default/wp-includes/plugin.php(525): call_user_func_array(Array, Array)
+#4 /var/www/html/osc-default/wp-includes/script-loader.php(1076): do_action('wp_enqueue_scri...')
+#5 [internal function]: wp_enqueue_scripts('')
+#6 /var/www/html/osc-default/wp-includes/plugin.php(525): call_user_func_array('wp_enqueue_scri...', Arra in /var/www/html/osc-default/wp-content/plugins/woocommerce-gateway-paypal-powered-by-braintree/braintree_sdk/lib/Braintree.php on line 20
+[21-Nov-2016 15:57:43 UTC] PHP Warning:  mysql_connect(): Headers and client library minor version mismatch. Headers:50547 Library:50631 in /var/www/html/osc-default/wp-includes/wp-db.php on line 1515
+[21-Nov-2016 15:57:45 UTC] PHP Warning:  mysql_connect(): Headers and client library minor version mismatch. Headers:50547 Library:50631 in /var/www/html/osc-default/wp-includes/wp-db.php on line 1515
+[21-Nov-2016 15:57:46 UTC] PHP Notice:  Undefined offset: 1 in /var/www/html/osc-default/wp-content/plugins/ads-by-datafeedrcom/inc/dfads.class.php on line 61
+[21-Nov-2016 15:57:46 UTC] PHP Warning:  mysql_connect(): Headers and client library minor version mismatch. Headers:50547 Library:50631 in /var/www/html/osc-default/wp-includes/wp-db.php on line 1515
+[21-Nov-2016 15:57:52 UTC] PHP Warning:  mysql_connect(): Headers and client library minor version mismatch. Headers:50547 Library:50631 in /var/www/html/osc-default/wp-includes/wp-db.php on line 1515
+[21-Nov-2016 15:57:53 UTC] PHP Notice:  Undefined variable: webinar_catID in /var/www/html/osc-default/wp-content/themes/osc/sidebar.php on line 42
+[21-Nov-2016 15:57:53 UTC] PHP Notice:  Undefined variable: post_catID in /var/www/html/osc-default/wp-content/themes/osc/sidebar.php on line 73
+[21-Nov-2016 15:57:53 UTC] PHP Notice:  Undefined variable: whitepaper_catID in /var/www/html/osc-default/wp-content/themes/osc/sidebar.php on line 106
+[21-Nov-2016 15:57:53 UTC] PHP Warning:  mysql_connect(): Headers and client library minor version mismatch. Headers:50547 Library:50631 in /var/www/html/osc-default/wp-includes/wp-db.php on line 1515
+[21-Nov-2016 15:57:53 UTC] PHP Warning:  mysql_connect(): Headers and client library minor version mismatch. Headers:50547 Library:50631 in /var/www/html/osc-default/wp-includes/wp-db.php on line 1515
+[21-Nov-2016 15:57:53 UTC] PHP Notice:  Trying to get property of non-object in /var/www/html/osc-default/wp-content/themes/osc/sidebar.php on line 5
+[21-Nov-2016 15:57:53 UTC] PHP Notice:  Undefined variable: webinar_catID in /var/www/html/osc-default/wp-content/themes/osc/sidebar.php on line 42
+[21-Nov-2016 15:57:53 UTC] PHP Notice:  Undefined variable: post_catID in /var/www/html/osc-default/wp-content/themes/osc/sidebar.php on line 73
+[21-Nov-2016 15:57:53 UTC] PHP Notice:  Undefined variable: whitepaper_catID in /var/www/html/osc-default/wp-content/themes/osc/sidebar.php on line 106
+[21-Nov-2016 15:57:55 UTC] PHP Warning:  mysql_connect(): Headers and client library minor version mismatch. Headers:50547 Library:50631 in /var/www/html/osc-default/wp-includes/wp-db.php on line 1515
+[21-Nov-2016 15:58:04 UTC] PHP Warning:  mysql_connect(): Headers and client library minor version mismatch. Headers:50547 Library:50631 in /var/www/html/osc-default/wp-includes/wp-db.php on line 1515
+[21-Nov-2016 15:58:04 UTC] PHP Notice:  Undefined variable: webinar_catID in /var/www/html/osc-default/wp-content/themes/osc/sidebar.php on line 42
+[21-Nov-2016 15:58:04 UTC] PHP Notice:  Undefined variable: post_catID in /var/www/html/osc-default/wp-content/themes/osc/sidebar.php on line 73
+[21-Nov-2016 15:58:04 UTC] PHP Notice:  Undefined variable: whitepaper_catID in /var/www/html/osc-default/wp-content/themes/osc/sidebar.php on line 106
+[21-Nov-2016 15:58:05 UTC] PHP Warning:  mysql_connect(): Headers and client library minor version mismatch. Headers:50547 Library:50631 in /var/www/html/osc-default/wp-includes/wp-db.php on line 1515
+[21-Nov-2016 15:58:05 UTC] PHP Warning:  mysql_connect(): Headers and client library minor version mismatch. Headers:50547 Library:50631 in /var/www/html/osc-default/wp-includes/wp-db.php on line 1515
+[21-Nov-2016 15:58:05 UTC] PHP Notice:  Trying to get property of non-object in /var/www/html/osc-default/wp-content/themes/osc/sidebar.php on line 5
+[21-Nov-2016 15:58:05 UTC] PHP Notice:  Undefined variable: webinar_catID in /var/www/html/osc-default/wp-content/themes/osc/sidebar.php on line 42
+[21-Nov-2016 15:58:05 UTC] PHP Notice:  Undefined variable: post_catID in /var/www/html/osc-default/wp-content/themes/osc/sidebar.php on line 73
+[21-Nov-2016 15:58:05 UTC] PHP Notice:  Undefined variable: whitepaper_catID in /var/www/html/osc-default/wp-content/themes/osc/sidebar.php on line 106
+[21-Nov-2016 15:58:07 UTC] PHP Warning:  mysql_connect(): Headers and client library minor version mismatch. Headers:50547 Library:50631 in /var/www/html/osc-default/wp-includes/wp-db.php on line 1515
+[21-Nov-2016 15:58:07 UTC] PHP Notice:  Undefined variable: webinar_catID in /var/www/html/osc-default/wp-content/themes/osc/sidebar.php on line 42
+[21-Nov-2016 15:58:07 UTC] PHP Notice:  Undefined variable: post_catID in /var/www/html/osc-default/wp-content/themes/osc/sidebar.php on line 73
+[21-Nov-2016 15:58:07 UTC] PHP Notice:  Undefined variable: whitepaper_catID in /var/www/html/osc-default/wp-content/themes/osc/sidebar.php on line 106
+[21-Nov-2016 15:58:07 UTC] PHP Warning:  mysql_connect(): Headers and client library minor version mismatch. Headers:50547 Library:50631 in /var/www/html/osc-default/wp-includes/wp-db.php on line 1515
+[21-Nov-2016 15:58:07 UTC] PHP Warning:  mysql_connect(): Headers and client library minor version mismatch. Headers:50547 Library:50631 in /var/www/html/osc-default/wp-includes/wp-db.php on line 1515
+[21-Nov-2016 15:58:08 UTC] PHP Notice:  Trying to get property of non-object in /var/www/html/osc-default/wp-content/themes/osc/sidebar.php on line 5
+[21-Nov-2016 15:58:08 UTC] PHP Notice:  Undefined variable: webinar_catID in /var/www/html/osc-default/wp-content/themes/osc/sidebar.php on line 42
+[21-Nov-2016 15:58:08 UTC] PHP Notice:  Undefined variable: post_catID in /var/www/html/osc-default/wp-content/themes/osc/sidebar.php on line 73
+[21-Nov-2016 15:58:08 UTC] PHP Notice:  Undefined variable: whitepaper_catID in /var/www/html/osc-default/wp-content/themes/osc/sidebar.php on line 106
+[21-Nov-2016 15:58:11 UTC] PHP Warning:  mysql_connect(): Headers and client library minor version mismatch. Headers:50547 Library:50631 in /var/www/html/osc-default/wp-includes/wp-db.php on line 1515
+[21-Nov-2016 15:58:11 UTC] PHP Fatal error:  Uncaught exception 'Braintree\Exception' with message 'The Braintree library requires the xmlwriter extension.' in /var/www/html/osc-default/wp-content/plugins/woocommerce-gateway-paypal-powered-by-braintree/braintree_sdk/lib/Braintree.php:20
+Stack trace:
+#0 /var/www/html/osc-default/wp-content/plugins/woocommerce-gateway-paypal-powered-by-braintree/braintree_sdk/lib/Braintree.php(25): requireDependencies()
+#1 /var/www/html/osc-default/wp-content/plugins/woocommerce-gateway-paypal-powered-by-braintree/woocommerce-gateway-paypal-powered-by-braintree.php(426): require_once('/var/www/html/o...')
+#2 [internal function]: WC_PayPal_Braintree_Loader->possibly_enqueue_scripts('')
+#3 /var/www/html/osc-default/wp-includes/plugin.php(525): call_user_func_array(Array, Array)
+#4 /var/www/html/osc-default/wp-includes/script-loader.php(1076): do_action('wp_enqueue_scri...')
+#5 [internal function]: wp_enqueue_scripts('')
+#6 /var/www/html/osc-default/wp-includes/plugin.php(525): call_user_func_array('wp_enqueue_scri...', Arra in /var/www/html/osc-default/wp-content/plugins/woocommerce-gateway-paypal-powered-by-braintree/braintree_sdk/lib/Braintree.php on line 20
+[21-Nov-2016 16:00:24 UTC] PHP Warning:  mysql_connect(): Headers and client library minor version mismatch. Headers:50547 Library:50631 in /var/www/html/osc-default/wp-includes/wp-db.php on line 1515
+[21-Nov-2016 16:02:35 UTC] PHP Warning:  mysql_connect(): Headers and client library minor version mismatch. Headers:50547 Library:50631 in /var/www/html/osc-default/wp-includes/wp-db.php on line 1515
+[21-Nov-2016 16:02:35 UTC] PHP Fatal error:  Uncaught exception 'Braintree\Exception' with message 'The Braintree library requires the xmlwriter extension.' in /var/www/html/osc-default/wp-content/plugins/woocommerce-gateway-paypal-powered-by-braintree/braintree_sdk/lib/Braintree.php:20
+Stack trace:
+#0 /var/www/html/osc-default/wp-content/plugins/woocommerce-gateway-paypal-powered-by-braintree/braintree_sdk/lib/Braintree.php(25): requireDependencies()
+#1 /var/www/html/osc-default/wp-content/plugins/woocommerce-gateway-paypal-powered-by-braintree/woocommerce-gateway-paypal-powered-by-braintree.php(426): require_once('/var/www/html/o...')
+#2 [internal function]: WC_PayPal_Braintree_Loader->possibly_enqueue_scripts('')
+#3 /var/www/html/osc-default/wp-includes/plugin.php(525): call_user_func_array(Array, Array)
+#4 /var/www/html/osc-default/wp-includes/script-loader.php(1076): do_action('wp_enqueue_scri...')
+#5 [internal function]: wp_enqueue_scripts('')
+#6 /var/www/html/osc-default/wp-includes/plugin.php(525): call_user_func_array('wp_enqueue_scri...', Arra in /var/www/html/osc-default/wp-content/plugins/woocommerce-gateway-paypal-powered-by-braintree/braintree_sdk/lib/Braintree.php on line 20
+[21-Nov-2016 16:02:36 UTC] PHP Warning:  mysql_connect(): Headers and client library minor version mismatch. Headers:50547 Library:50631 in /var/www/html/osc-default/wp-includes/wp-db.php on line 1515
+[21-Nov-2016 16:02:36 UTC] PHP Fatal error:  Uncaught exception 'Braintree\Exception' with message 'The Braintree library requires the xmlwriter extension.' in /var/www/html/osc-default/wp-content/plugins/woocommerce-gateway-paypal-powered-by-braintree/braintree_sdk/lib/Braintree.php:20
+Stack trace:
+#0 /var/www/html/osc-default/wp-content/plugins/woocommerce-gateway-paypal-powered-by-braintree/braintree_sdk/lib/Braintree.php(25): requireDependencies()
+#1 /var/www/html/osc-default/wp-content/plugins/woocommerce-gateway-paypal-powered-by-braintree/woocommerce-gateway-paypal-powered-by-braintree.php(426): require_once('/var/www/html/o...')
+#2 [internal function]: WC_PayPal_Braintree_Loader->possibly_enqueue_scripts('')
+#3 /var/www/html/osc-default/wp-includes/plugin.php(525): call_user_func_array(Array, Array)
+#4 /var/www/html/osc-default/wp-includes/script-loader.php(1076): do_action('wp_enqueue_scri...')
+#5 [internal function]: wp_enqueue_scripts('')
+#6 /var/www/html/osc-default/wp-includes/plugin.php(525): call_user_func_array('wp_enqueue_scri...', Arra in /var/www/html/osc-default/wp-content/plugins/woocommerce-gateway-paypal-powered-by-braintree/braintree_sdk/lib/Braintree.php on line 20
+[21-Nov-2016 16:04:03 UTC] PHP Warning:  mysql_connect(): Headers and client library minor version mismatch. Headers:50547 Library:50631 in /var/www/html/osc-default/wp-includes/wp-db.php on line 1515
+[21-Nov-2016 16:04:03 UTC] PHP Fatal error:  Uncaught exception 'Braintree\Exception' with message 'The Braintree library requires the xmlwriter extension.' in /var/www/html/osc-default/wp-content/plugins/woocommerce-gateway-paypal-powered-by-braintree/braintree_sdk/lib/Braintree.php:20
+Stack trace:
+#0 /var/www/html/osc-default/wp-content/plugins/woocommerce-gateway-paypal-powered-by-braintree/braintree_sdk/lib/Braintree.php(25): requireDependencies()
+#1 /var/www/html/osc-default/wp-content/plugins/woocommerce-gateway-paypal-powered-by-braintree/woocommerce-gateway-paypal-powered-by-braintree.php(426): require_once('/var/www/html/o...')
+#2 [internal function]: WC_PayPal_Braintree_Loader->possibly_enqueue_scripts('')
+#3 /var/www/html/osc-default/wp-includes/plugin.php(525): call_user_func_array(Array, Array)
+#4 /var/www/html/osc-default/wp-includes/script-loader.php(1076): do_action('wp_enqueue_scri...')
+#5 [internal function]: wp_enqueue_scripts('')
+#6 /var/www/html/osc-default/wp-includes/plugin.php(525): call_user_func_array('wp_enqueue_scri...', Arra in /var/www/html/osc-default/wp-content/plugins/woocommerce-gateway-paypal-powered-by-braintree/braintree_sdk/lib/Braintree.php on line 20
+[21-Nov-2016 16:04:05 UTC] PHP Warning:  mysql_connect(): Headers and client library minor version mismatch. Headers:50547 Library:50631 in /var/www/html/osc-default/wp-includes/wp-db.php on line 1515
+[21-Nov-2016 16:04:05 UTC] PHP Fatal error:  Uncaught exception 'Braintree\Exception' with message 'The Braintree library requires the xmlwriter extension.' in /var/www/html/osc-default/wp-content/plugins/woocommerce-gateway-paypal-powered-by-braintree/braintree_sdk/lib/Braintree.php:20
+Stack trace:
+#0 /var/www/html/osc-default/wp-content/plugins/woocommerce-gateway-paypal-powered-by-braintree/braintree_sdk/lib/Braintree.php(25): requireDependencies()
+#1 /var/www/html/osc-default/wp-content/plugins/woocommerce-gateway-paypal-powered-by-braintree/woocommerce-gateway-paypal-powered-by-braintree.php(426): require_once('/var/www/html/o...')
+#2 [internal function]: WC_PayPal_Braintree_Loader->possibly_enqueue_scripts('')
+#3 /var/www/html/osc-default/wp-includes/plugin.php(525): call_user_func_array(Array, Array)
+#4 /var/www/html/osc-default/wp-includes/script-loader.php(1076): do_action('wp_enqueue_scri...')
+#5 [internal function]: wp_enqueue_scripts('')
+#6 /var/www/html/osc-default/wp-includes/plugin.php(525): call_user_func_array('wp_enqueue_scri...', Arra in /var/www/html/osc-default/wp-content/plugins/woocommerce-gateway-paypal-powered-by-braintree/braintree_sdk/lib/Braintree.php on line 20
+[21-Nov-2016 16:04:06 UTC] PHP Warning:  mysql_connect(): Headers and client library minor version mismatch. Headers:50547 Library:50631 in /var/www/html/osc-default/wp-includes/wp-db.php on line 1515
+[21-Nov-2016 16:04:06 UTC] PHP Fatal error:  Uncaught exception 'Braintree\Exception' with message 'The Braintree library requires the xmlwriter extension.' in /var/www/html/osc-default/wp-content/plugins/woocommerce-gateway-paypal-powered-by-braintree/braintree_sdk/lib/Braintree.php:20
+Stack trace:
+#0 /var/www/html/osc-default/wp-content/plugins/woocommerce-gateway-paypal-powered-by-braintree/braintree_sdk/lib/Braintree.php(25): requireDependencies()
+#1 /var/www/html/osc-default/wp-content/plugins/woocommerce-gateway-paypal-powered-by-braintree/woocommerce-gateway-paypal-powered-by-braintree.php(426): require_once('/var/www/html/o...')
+#2 [internal function]: WC_PayPal_Braintree_Loader->possibly_enqueue_scripts('')
+#3 /var/www/html/osc-default/wp-includes/plugin.php(525): call_user_func_array(Array, Array)
+#4 /var/www/html/osc-default/wp-includes/script-loader.php(1076): do_action('wp_enqueue_scri...')
+#5 [internal function]: wp_enqueue_scripts('')
+#6 /var/www/html/osc-default/wp-includes/plugin.php(525): call_user_func_array('wp_enqueue_scri...', Arra in /var/www/html/osc-default/wp-content/plugins/woocommerce-gateway-paypal-powered-by-braintree/braintree_sdk/lib/Braintree.php on line 20
+[21-Nov-2016 16:04:07 UTC] PHP Warning:  mysql_connect(): Headers and client library minor version mismatch. Headers:50547 Library:50631 in /var/www/html/osc-default/wp-includes/wp-db.php on line 1515
+[21-Nov-2016 16:04:07 UTC] PHP Fatal error:  Uncaught exception 'Braintree\Exception' with message 'The Braintree library requires the xmlwriter extension.' in /var/www/html/osc-default/wp-content/plugins/woocommerce-gateway-paypal-powered-by-braintree/braintree_sdk/lib/Braintree.php:20
+Stack trace:
+#0 /var/www/html/osc-default/wp-content/plugins/woocommerce-gateway-paypal-powered-by-braintree/braintree_sdk/lib/Braintree.php(25): requireDependencies()
+#1 /var/www/html/osc-default/wp-content/plugins/woocommerce-gateway-paypal-powered-by-braintree/woocommerce-gateway-paypal-powered-by-braintree.php(426): require_once('/var/www/html/o...')
+#2 [internal function]: WC_PayPal_Braintree_Loader->possibly_enqueue_scripts('')
+#3 /var/www/html/osc-default/wp-includes/plugin.php(525): call_user_func_array(Array, Array)
+#4 /var/www/html/osc-default/wp-includes/script-loader.php(1076): do_action('wp_enqueue_scri...')
+#5 [internal function]: wp_enqueue_scripts('')
+#6 /var/www/html/osc-default/wp-includes/plugin.php(525): call_user_func_array('wp_enqueue_scri...', Arra in /var/www/html/osc-default/wp-content/plugins/woocommerce-gateway-paypal-powered-by-braintree/braintree_sdk/lib/Braintree.php on line 20
+[21-Nov-2016 16:04:09 UTC] PHP Warning:  mysql_connect(): Headers and client library minor version mismatch. Headers:50547 Library:50631 in /var/www/html/osc-default/wp-includes/wp-db.php on line 1515
+[21-Nov-2016 16:04:09 UTC] PHP Warning:  mysql_connect(): Headers and client library minor version mismatch. Headers:50547 Library:50631 in /var/www/html/osc-default/wp-includes/wp-db.php on line 1515
+[21-Nov-2016 16:04:09 UTC] PHP Notice:  Trying to get property of non-object in /var/www/html/osc-default/wp-content/themes/osc/sidebar.php on line 5
+[21-Nov-2016 16:04:09 UTC] PHP Notice:  Undefined variable: webinar_catID in /var/www/html/osc-default/wp-content/themes/osc/sidebar.php on line 42
+[21-Nov-2016 16:04:09 UTC] PHP Notice:  Undefined variable: post_catID in /var/www/html/osc-default/wp-content/themes/osc/sidebar.php on line 73
+[21-Nov-2016 16:04:09 UTC] PHP Notice:  Undefined variable: whitepaper_catID in /var/www/html/osc-default/wp-content/themes/osc/sidebar.php on line 106
+[21-Nov-2016 16:04:12 UTC] PHP Warning:  mysql_connect(): Headers and client library minor version mismatch. Headers:50547 Library:50631 in /var/www/html/osc-default/wp-includes/wp-db.php on line 1515
+[21-Nov-2016 16:04:12 UTC] PHP Notice:  Undefined variable: webinar_catID in /var/www/html/osc-default/wp-content/themes/osc/sidebar.php on line 42
+[21-Nov-2016 16:04:12 UTC] PHP Notice:  Undefined variable: post_catID in /var/www/html/osc-default/wp-content/themes/osc/sidebar.php on line 73
+[21-Nov-2016 16:04:12 UTC] PHP Notice:  Undefined variable: whitepaper_catID in /var/www/html/osc-default/wp-content/themes/osc/sidebar.php on line 106
+[21-Nov-2016 16:04:13 UTC] PHP Warning:  mysql_connect(): Headers and client library minor version mismatch. Headers:50547 Library:50631 in /var/www/html/osc-default/wp-includes/wp-db.php on line 1515
+[21-Nov-2016 16:04:13 UTC] PHP Warning:  mysql_connect(): Headers and client library minor version mismatch. Headers:50547 Library:50631 in /var/www/html/osc-default/wp-includes/wp-db.php on line 1515
+[21-Nov-2016 16:04:13 UTC] PHP Notice:  Trying to get property of non-object in /var/www/html/osc-default/wp-content/themes/osc/sidebar.php on line 5
+[21-Nov-2016 16:04:13 UTC] PHP Notice:  Undefined variable: webinar_catID in /var/www/html/osc-default/wp-content/themes/osc/sidebar.php on line 42
+[21-Nov-2016 16:04:13 UTC] PHP Notice:  Undefined variable: post_catID in /var/www/html/osc-default/wp-content/themes/osc/sidebar.php on line 73
+[21-Nov-2016 16:04:13 UTC] PHP Notice:  Undefined variable: whitepaper_catID in /var/www/html/osc-default/wp-content/themes/osc/sidebar.php on line 106
+[21-Nov-2016 16:04:14 UTC] PHP Warning:  mysql_connect(): Headers and client library minor version mismatch. Headers:50547 Library:50631 in /var/www/html/osc-default/wp-includes/wp-db.php on line 1515
+[21-Nov-2016 16:04:14 UTC] PHP Notice:  Undefined variable: webinar_catID in /var/www/html/osc-default/wp-content/themes/osc/sidebar.php on line 42
+[21-Nov-2016 16:04:14 UTC] PHP Notice:  Undefined variable: post_catID in /var/www/html/osc-default/wp-content/themes/osc/sidebar.php on line 73
+[21-Nov-2016 16:04:14 UTC] PHP Notice:  Undefined variable: whitepaper_catID in /var/www/html/osc-default/wp-content/themes/osc/sidebar.php on line 106
+[21-Nov-2016 16:04:15 UTC] PHP Warning:  mysql_connect(): Headers and client library minor version mismatch. Headers:50547 Library:50631 in /var/www/html/osc-default/wp-includes/wp-db.php on line 1515
+[21-Nov-2016 16:04:15 UTC] PHP Warning:  mysql_connect(): Headers and client library minor version mismatch. Headers:50547 Library:50631 in /var/www/html/osc-default/wp-includes/wp-db.php on line 1515
+[21-Nov-2016 16:04:15 UTC] PHP Notice:  Trying to get property of non-object in /var/www/html/osc-default/wp-content/themes/osc/sidebar.php on line 5
+[21-Nov-2016 16:04:15 UTC] PHP Notice:  Undefined variable: webinar_catID in /var/www/html/osc-default/wp-content/themes/osc/sidebar.php on line 42
+[21-Nov-2016 16:04:15 UTC] PHP Notice:  Undefined variable: post_catID in /var/www/html/osc-default/wp-content/themes/osc/sidebar.php on line 73
+[21-Nov-2016 16:04:15 UTC] PHP Notice:  Undefined variable: whitepaper_catID in /var/www/html/osc-default/wp-content/themes/osc/sidebar.php on line 106
+[21-Nov-2016 16:04:16 UTC] PHP Warning:  mysql_connect(): Headers and client library minor version mismatch. Headers:50547 Library:50631 in /var/www/html/osc-default/wp-includes/wp-db.php on line 1515
+[21-Nov-2016 16:04:16 UTC] PHP Fatal error:  Uncaught exception 'Braintree\Exception' with message 'The Braintree library requires the xmlwriter extension.' in /var/www/html/osc-default/wp-content/plugins/woocommerce-gateway-paypal-powered-by-braintree/braintree_sdk/lib/Braintree.php:20
+Stack trace:
+#0 /var/www/html/osc-default/wp-content/plugins/woocommerce-gateway-paypal-powered-by-braintree/braintree_sdk/lib/Braintree.php(25): requireDependencies()
+#1 /var/www/html/osc-default/wp-content/plugins/woocommerce-gateway-paypal-powered-by-braintree/woocommerce-gateway-paypal-powered-by-braintree.php(426): require_once('/var/www/html/o...')
+#2 [internal function]: WC_PayPal_Braintree_Loader->possibly_enqueue_scripts('')
+#3 /var/www/html/osc-default/wp-includes/plugin.php(525): call_user_func_array(Array, Array)
+#4 /var/www/html/osc-default/wp-includes/script-loader.php(1076): do_action('wp_enqueue_scri...')
+#5 [internal function]: wp_enqueue_scripts('')
+#6 /var/www/html/osc-default/wp-includes/plugin.php(525): call_user_func_array('wp_enqueue_scri...', Arra in /var/www/html/osc-default/wp-content/plugins/woocommerce-gateway-paypal-powered-by-braintree/braintree_sdk/lib/Braintree.php on line 20
+[21-Nov-2016 16:05:24 UTC] PHP Warning:  mysql_connect(): Headers and client library minor version mismatch. Headers:50547 Library:50631 in /var/www/html/osc-default/wp-includes/wp-db.php on line 1515
+[21-Nov-2016 16:06:39 UTC] PHP Warning:  mysql_connect(): Headers and client library minor version mismatch. Headers:50547 Library:50631 in /var/www/html/osc-default/wp-includes/wp-db.php on line 1515
+[21-Nov-2016 16:06:46 UTC] PHP Warning:  mysql_connect(): Headers and client library minor version mismatch. Headers:50547 Library:50631 in /var/www/html/osc-default/wp-includes/wp-db.php on line 1515
+[21-Nov-2016 16:06:46 UTC] PHP Notice:  Undefined variable: webinar_catID in /var/www/html/osc-default/wp-content/themes/osc/sidebar.php on line 42
+[21-Nov-2016 16:06:46 UTC] PHP Notice:  Undefined variable: post_catID in /var/www/html/osc-default/wp-content/themes/osc/sidebar.php on line 73
+[21-Nov-2016 16:06:46 UTC] PHP Notice:  Undefined variable: whitepaper_catID in /var/www/html/osc-default/wp-content/themes/osc/sidebar.php on line 106
+[21-Nov-2016 16:06:48 UTC] PHP Warning:  mysql_connect(): Headers and client library minor version mismatch. Headers:50547 Library:50631 in /var/www/html/osc-default/wp-includes/wp-db.php on line 1515
+[21-Nov-2016 16:06:49 UTC] PHP Notice:  Undefined variable: webinar_catID in /var/www/html/osc-default/wp-content/themes/osc/sidebar.php on line 42
+[21-Nov-2016 16:06:49 UTC] PHP Notice:  Undefined variable: post_catID in /var/www/html/osc-default/wp-content/themes/osc/sidebar.php on line 73
+[21-Nov-2016 16:06:49 UTC] PHP Notice:  Undefined variable: whitepaper_catID in /var/www/html/osc-default/wp-content/themes/osc/sidebar.php on line 106
+[21-Nov-2016 16:06:52 UTC] PHP Warning:  mysql_connect(): Headers and client library minor version mismatch. Headers:50547 Library:50631 in /var/www/html/osc-default/wp-includes/wp-db.php on line 1515
+[21-Nov-2016 16:08:56 UTC] PHP Warning:  mysql_connect(): Headers and client library minor version mismatch. Headers:50547 Library:50631 in /var/www/html/osc-default/wp-includes/wp-db.php on line 1515
+[21-Nov-2016 16:08:56 UTC] PHP Fatal error:  Uncaught exception 'Braintree\Exception' with message 'The Braintree library requires the xmlwriter extension.' in /var/www/html/osc-default/wp-content/plugins/woocommerce-gateway-paypal-powered-by-braintree/braintree_sdk/lib/Braintree.php:20
+Stack trace:
+#0 /var/www/html/osc-default/wp-content/plugins/woocommerce-gateway-paypal-powered-by-braintree/braintree_sdk/lib/Braintree.php(25): requireDependencies()
+#1 /var/www/html/osc-default/wp-content/plugins/woocommerce-gateway-paypal-powered-by-braintree/woocommerce-gateway-paypal-powered-by-braintree.php(426): require_once('/var/www/html/o...')
+#2 [internal function]: WC_PayPal_Braintree_Loader->possibly_enqueue_scripts('')
+#3 /var/www/html/osc-default/wp-includes/plugin.php(525): call_user_func_array(Array, Array)
+#4 /var/www/html/osc-default/wp-includes/script-loader.php(1076): do_action('wp_enqueue_scri...')
+#5 [internal function]: wp_enqueue_scripts('')
+#6 /var/www/html/osc-default/wp-includes/plugin.php(525): call_user_func_array('wp_enqueue_scri...', Arra in /var/www/html/osc-default/wp-content/plugins/woocommerce-gateway-paypal-powered-by-braintree/braintree_sdk/lib/Braintree.php on line 20
+[21-Nov-2016 16:10:24 UTC] PHP Warning:  mysql_connect(): Headers and client library minor version mismatch. Headers:50547 Library:50631 in /var/www/html/osc-default/wp-includes/wp-db.php on line 1515
+[21-Nov-2016 16:14:47 UTC] PHP Warning:  mysql_connect(): Headers and client library minor version mismatch. Headers:50547 Library:50631 in /var/www/html/osc-default/wp-includes/wp-db.php on line 1515
+[21-Nov-2016 16:14:47 UTC] PHP Fatal error:  Uncaught exception 'Braintree\Exception' with message 'The Braintree library requires the xmlwriter extension.' in /var/www/html/osc-default/wp-content/plugins/woocommerce-gateway-paypal-powered-by-braintree/braintree_sdk/lib/Braintree.php:20
+Stack trace:
+#0 /var/www/html/osc-default/wp-content/plugins/woocommerce-gateway-paypal-powered-by-braintree/braintree_sdk/lib/Braintree.php(25): requireDependencies()
+#1 /var/www/html/osc-default/wp-content/plugins/woocommerce-gateway-paypal-powered-by-braintree/woocommerce-gateway-paypal-powered-by-braintree.php(426): require_once('/var/www/html/o...')
+#2 [internal function]: WC_PayPal_Braintree_Loader->possibly_enqueue_scripts('')
+#3 /var/www/html/osc-default/wp-includes/plugin.php(525): call_user_func_array(Array, Array)
+#4 /var/www/html/osc-default/wp-includes/script-loader.php(1076): do_action('wp_enqueue_scri...')
+#5 [internal function]: wp_enqueue_scripts('')
+#6 /var/www/html/osc-default/wp-includes/plugin.php(525): call_user_func_array('wp_enqueue_scri...', Arra in /var/www/html/osc-default/wp-content/plugins/woocommerce-gateway-paypal-powered-by-braintree/braintree_sdk/lib/Braintree.php on line 20
+[21-Nov-2016 16:15:24 UTC] PHP Warning:  mysql_connect(): Headers and client library minor version mismatch. Headers:50547 Library:50631 in /var/www/html/osc-default/wp-includes/wp-db.php on line 1515
+[21-Nov-2016 16:20:24 UTC] PHP Warning:  mysql_connect(): Headers and client library minor version mismatch. Headers:50547 Library:50631 in /var/www/html/osc-default/wp-includes/wp-db.php on line 1515
+[21-Nov-2016 16:24:56 UTC] PHP Warning:  mysql_connect(): Headers and client library minor version mismatch. Headers:50547 Library:50631 in /var/www/html/osc-default/wp-includes/wp-db.php on line 1515
+[21-Nov-2016 16:24:57 UTC] PHP Fatal error:  Uncaught exception 'Braintree\Exception' with message 'The Braintree library requires the xmlwriter extension.' in /var/www/html/osc-default/wp-content/plugins/woocommerce-gateway-paypal-powered-by-braintree/braintree_sdk/lib/Braintree.php:20
+Stack trace:
+#0 /var/www/html/osc-default/wp-content/plugins/woocommerce-gateway-paypal-powered-by-braintree/braintree_sdk/lib/Braintree.php(25): requireDependencies()
+#1 /var/www/html/osc-default/wp-content/plugins/woocommerce-gateway-paypal-powered-by-braintree/woocommerce-gateway-paypal-powered-by-braintree.php(426): require_once('/var/www/html/o...')
+#2 [internal function]: WC_PayPal_Braintree_Loader->possibly_enqueue_scripts('')
+#3 /var/www/html/osc-default/wp-includes/plugin.php(525): call_user_func_array(Array, Array)
+#4 /var/www/html/osc-default/wp-includes/script-loader.php(1076): do_action('wp_enqueue_scri...')
+#5 [internal function]: wp_enqueue_scripts('')
+#6 /var/www/html/osc-default/wp-includes/plugin.php(525): call_user_func_array('wp_enqueue_scri...', Arra in /var/www/html/osc-default/wp-content/plugins/woocommerce-gateway-paypal-powered-by-braintree/braintree_sdk/lib/Braintree.php on line 20
+[21-Nov-2016 16:24:59 UTC] PHP Warning:  mysql_connect(): Headers and client library minor version mismatch. Headers:50547 Library:50631 in /var/www/html/osc-default/wp-includes/wp-db.php on line 1515
+[21-Nov-2016 16:24:59 UTC] PHP Fatal error:  Uncaught exception 'Braintree\Exception' with message 'The Braintree library requires the xmlwriter extension.' in /var/www/html/osc-default/wp-content/plugins/woocommerce-gateway-paypal-powered-by-braintree/braintree_sdk/lib/Braintree.php:20
+Stack trace:
+#0 /var/www/html/osc-default/wp-content/plugins/woocommerce-gateway-paypal-powered-by-braintree/braintree_sdk/lib/Braintree.php(25): requireDependencies()
+#1 /var/www/html/osc-default/wp-content/plugins/woocommerce-gateway-paypal-powered-by-braintree/woocommerce-gateway-paypal-powered-by-braintree.php(426): require_once('/var/www/html/o...')
+#2 [internal function]: WC_PayPal_Braintree_Loader->possibly_enqueue_scripts('')
+#3 /var/www/html/osc-default/wp-includes/plugin.php(525): call_user_func_array(Array, Array)
+#4 /var/www/html/osc-default/wp-includes/script-loader.php(1076): do_action('wp_enqueue_scri...')
+#5 [internal function]: wp_enqueue_scripts('')
+#6 /var/www/html/osc-default/wp-includes/plugin.php(525): call_user_func_array('wp_enqueue_scri...', Arra in /var/www/html/osc-default/wp-content/plugins/woocommerce-gateway-paypal-powered-by-braintree/braintree_sdk/lib/Braintree.php on line 20
+[21-Nov-2016 16:25:00 UTC] PHP Warning:  mysql_connect(): Headers and client library minor version mismatch. Headers:50547 Library:50631 in /var/www/html/osc-default/wp-includes/wp-db.php on line 1515
+[21-Nov-2016 16:25:00 UTC] PHP Fatal error:  Uncaught exception 'Braintree\Exception' with message 'The Braintree library requires the xmlwriter extension.' in /var/www/html/osc-default/wp-content/plugins/woocommerce-gateway-paypal-powered-by-braintree/braintree_sdk/lib/Braintree.php:20
+Stack trace:
+#0 /var/www/html/osc-default/wp-content/plugins/woocommerce-gateway-paypal-powered-by-braintree/braintree_sdk/lib/Braintree.php(25): requireDependencies()
+#1 /var/www/html/osc-default/wp-content/plugins/woocommerce-gateway-paypal-powered-by-braintree/woocommerce-gateway-paypal-powered-by-braintree.php(426): require_once('/var/www/html/o...')
+#2 [internal function]: WC_PayPal_Braintree_Loader->possibly_enqueue_scripts('')
+#3 /var/www/html/osc-default/wp-includes/plugin.php(525): call_user_func_array(Array, Array)
+#4 /var/www/html/osc-default/wp-includes/script-loader.php(1076): do_action('wp_enqueue_scri...')
+#5 [internal function]: wp_enqueue_scripts('')
+#6 /var/www/html/osc-default/wp-includes/plugin.php(525): call_user_func_array('wp_enqueue_scri...', Arra in /var/www/html/osc-default/wp-content/plugins/woocommerce-gateway-paypal-powered-by-braintree/braintree_sdk/lib/Braintree.php on line 20
+[21-Nov-2016 16:25:13 UTC] PHP Warning:  mysql_connect(): Headers and client library minor version mismatch. Headers:50547 Library:50631 in /var/www/html/osc-default/wp-includes/wp-db.php on line 1515
+[21-Nov-2016 16:25:13 UTC] PHP Warning:  mysql_connect(): Headers and client library minor version mismatch. Headers:50547 Library:50631 in /var/www/html/osc-default/wp-includes/wp-db.php on line 1515
+[21-Nov-2016 16:25:13 UTC] PHP Notice:  Trying to get property of non-object in /var/www/html/osc-default/wp-content/themes/osc/sidebar.php on line 5
+[21-Nov-2016 16:25:13 UTC] PHP Notice:  Undefined variable: webinar_catID in /var/www/html/osc-default/wp-content/themes/osc/sidebar.php on line 42
+[21-Nov-2016 16:25:13 UTC] PHP Notice:  Undefined variable: post_catID in /var/www/html/osc-default/wp-content/themes/osc/sidebar.php on line 73
+[21-Nov-2016 16:25:13 UTC] PHP Notice:  Undefined variable: whitepaper_catID in /var/www/html/osc-default/wp-content/themes/osc/sidebar.php on line 106
+[21-Nov-2016 16:25:15 UTC] PHP Warning:  mysql_connect(): Headers and client library minor version mismatch. Headers:50547 Library:50631 in /var/www/html/osc-default/wp-includes/wp-db.php on line 1515
+[21-Nov-2016 16:25:24 UTC] PHP Warning:  mysql_connect(): Headers and client library minor version mismatch. Headers:50547 Library:50631 in /var/www/html/osc-default/wp-includes/wp-db.php on line 1515
+[21-Nov-2016 16:26:17 UTC] PHP Warning:  mysql_connect(): Headers and client library minor version mismatch. Headers:50547 Library:50631 in /var/www/html/osc-default/wp-includes/wp-db.php on line 1515
+[21-Nov-2016 16:28:18 UTC] PHP Warning:  mysql_connect(): Headers and client library minor version mismatch. Headers:50547 Library:50631 in /var/www/html/osc-default/wp-includes/wp-db.php on line 1515
+[21-Nov-2016 16:28:44 UTC] PHP Warning:  mysql_connect(): Headers and client library minor version mismatch. Headers:50547 Library:50631 in /var/www/html/osc-default/wp-includes/wp-db.php on line 1515
+[21-Nov-2016 16:28:44 UTC] PHP Notice:  Undefined offset: 1 in /var/www/html/osc-default/wp-content/plugins/ads-by-datafeedrcom/inc/dfads.class.php on line 61
+[21-Nov-2016 16:28:45 UTC] PHP Warning:  mysql_connect(): Headers and client library minor version mismatch. Headers:50547 Library:50631 in /var/www/html/osc-default/wp-includes/wp-db.php on line 1515
+[21-Nov-2016 16:28:47 UTC] PHP Warning:  mysql_connect(): Headers and client library minor version mismatch. Headers:50547 Library:50631 in /var/www/html/osc-default/wp-includes/wp-db.php on line 1515
+[21-Nov-2016 16:28:48 UTC] PHP Notice:  Undefined variable: webinar_catID in /var/www/html/osc-default/wp-content/themes/osc/sidebar.php on line 42
+[21-Nov-2016 16:28:48 UTC] PHP Notice:  Undefined variable: post_catID in /var/www/html/osc-default/wp-content/themes/osc/sidebar.php on line 73
+[21-Nov-2016 16:28:48 UTC] PHP Notice:  Undefined variable: whitepaper_catID in /var/www/html/osc-default/wp-content/themes/osc/sidebar.php on line 106
+[21-Nov-2016 16:28:48 UTC] PHP Warning:  mysql_connect(): Headers and client library minor version mismatch. Headers:50547 Library:50631 in /var/www/html/osc-default/wp-includes/wp-db.php on line 1515
+[21-Nov-2016 16:28:48 UTC] PHP Warning:  mysql_connect(): Headers and client library minor version mismatch. Headers:50547 Library:50631 in /var/www/html/osc-default/wp-includes/wp-db.php on line 1515
+[21-Nov-2016 16:28:48 UTC] PHP Notice:  Trying to get property of non-object in /var/www/html/osc-default/wp-content/themes/osc/sidebar.php on line 5
+[21-Nov-2016 16:28:48 UTC] PHP Notice:  Undefined variable: webinar_catID in /var/www/html/osc-default/wp-content/themes/osc/sidebar.php on line 42
+[21-Nov-2016 16:28:48 UTC] PHP Notice:  Undefined variable: post_catID in /var/www/html/osc-default/wp-content/themes/osc/sidebar.php on line 73
+[21-Nov-2016 16:28:48 UTC] PHP Notice:  Undefined variable: whitepaper_catID in /var/www/html/osc-default/wp-content/themes/osc/sidebar.php on line 106
+[21-Nov-2016 16:28:58 UTC] PHP Warning:  mysql_connect(): Headers and client library minor version mismatch. Headers:50547 Library:50631 in /var/www/html/osc-default/wp-includes/wp-db.php on line 1515
+[21-Nov-2016 16:28:59 UTC] PHP Notice:  Undefined variable: webinar_catID in /var/www/html/osc-default/wp-content/themes/osc/sidebar.php on line 42
+[21-Nov-2016 16:28:59 UTC] PHP Notice:  Undefined variable: post_catID in /var/www/html/osc-default/wp-content/themes/osc/sidebar.php on line 73
+[21-Nov-2016 16:28:59 UTC] PHP Notice:  Undefined variable: whitepaper_catID in /var/www/html/osc-default/wp-content/themes/osc/sidebar.php on line 106
+[21-Nov-2016 16:28:59 UTC] PHP Warning:  mysql_connect(): Headers and client library minor version mismatch. Headers:50547 Library:50631 in /var/www/html/osc-default/wp-includes/wp-db.php on line 1515
+[21-Nov-2016 16:28:59 UTC] PHP Warning:  mysql_connect(): Headers and client library minor version mismatch. Headers:50547 Library:50631 in /var/www/html/osc-default/wp-includes/wp-db.php on line 1515
+[21-Nov-2016 16:29:00 UTC] PHP Notice:  Trying to get property of non-object in /var/www/html/osc-default/wp-content/themes/osc/sidebar.php on line 5
+[21-Nov-2016 16:29:00 UTC] PHP Notice:  Undefined variable: webinar_catID in /var/www/html/osc-default/wp-content/themes/osc/sidebar.php on line 42
+[21-Nov-2016 16:29:00 UTC] PHP Notice:  Undefined variable: post_catID in /var/www/html/osc-default/wp-content/themes/osc/sidebar.php on line 73
+[21-Nov-2016 16:29:00 UTC] PHP Notice:  Undefined variable: whitepaper_catID in /var/www/html/osc-default/wp-content/themes/osc/sidebar.php on line 106
+[21-Nov-2016 16:29:09 UTC] PHP Warning:  mysql_connect(): Headers and client library minor version mismatch. Headers:50547 Library:50631 in /var/www/html/osc-default/wp-includes/wp-db.php on line 1515
+[21-Nov-2016 16:29:11 UTC] PHP Notice:  Undefined variable: webinar_catID in /var/www/html/osc-default/wp-content/themes/osc/sidebar.php on line 42
+[21-Nov-2016 16:29:11 UTC] PHP Notice:  Undefined variable: post_catID in /var/www/html/osc-default/wp-content/themes/osc/sidebar.php on line 73
+[21-Nov-2016 16:29:11 UTC] PHP Notice:  Undefined variable: whitepaper_catID in /var/www/html/osc-default/wp-content/themes/osc/sidebar.php on line 106
+[21-Nov-2016 16:29:11 UTC] PHP Warning:  mysql_connect(): Headers and client library minor version mismatch. Headers:50547 Library:50631 in /var/www/html/osc-default/wp-includes/wp-db.php on line 1515
+[21-Nov-2016 16:29:12 UTC] PHP Warning:  mysql_connect(): Headers and client library minor version mismatch. Headers:50547 Library:50631 in /var/www/html/osc-default/wp-includes/wp-db.php on line 1515
+[21-Nov-2016 16:29:12 UTC] PHP Notice:  Trying to get property of non-object in /var/www/html/osc-default/wp-content/themes/osc/sidebar.php on line 5
+[21-Nov-2016 16:29:12 UTC] PHP Notice:  Undefined variable: webinar_catID in /var/www/html/osc-default/wp-content/themes/osc/sidebar.php on line 42
+[21-Nov-2016 16:29:12 UTC] PHP Notice:  Undefined variable: post_catID in /var/www/html/osc-default/wp-content/themes/osc/sidebar.php on line 73
+[21-Nov-2016 16:29:12 UTC] PHP Notice:  Undefined variable: whitepaper_catID in /var/www/html/osc-default/wp-content/themes/osc/sidebar.php on line 106
+[21-Nov-2016 16:29:12 UTC] PHP Warning:  mysql_connect(): Headers and client library minor version mismatch. Headers:50547 Library:50631 in /var/www/html/osc-default/wp-includes/wp-db.php on line 1515
+[21-Nov-2016 16:29:48 UTC] PHP Warning:  mysql_connect(): Headers and client library minor version mismatch. Headers:50547 Library:50631 in /var/www/html/osc-default/wp-includes/wp-db.php on line 1515
+[21-Nov-2016 16:29:49 UTC] PHP Notice:  Undefined variable: webinar_catID in /var/www/html/osc-default/wp-content/themes/osc/sidebar.php on line 42
+[21-Nov-2016 16:29:49 UTC] PHP Notice:  Undefined variable: post_catID in /var/www/html/osc-default/wp-content/themes/osc/sidebar.php on line 73
+[21-Nov-2016 16:29:49 UTC] PHP Notice:  Undefined variable: whitepaper_catID in /var/www/html/osc-default/wp-content/themes/osc/sidebar.php on line 106
+[21-Nov-2016 16:29:50 UTC] PHP Warning:  mysql_connect(): Headers and client library minor version mismatch. Headers:50547 Library:50631 in /var/www/html/osc-default/wp-includes/wp-db.php on line 1515
+[21-Nov-2016 16:29:50 UTC] PHP Warning:  mysql_connect(): Headers and client library minor version mismatch. Headers:50547 Library:50631 in /var/www/html/osc-default/wp-includes/wp-db.php on line 1515
+[21-Nov-2016 16:29:50 UTC] PHP Notice:  Trying to get property of non-object in /var/www/html/osc-default/wp-content/themes/osc/sidebar.php on line 5
+[21-Nov-2016 16:29:50 UTC] PHP Notice:  Undefined variable: webinar_catID in /var/www/html/osc-default/wp-content/themes/osc/sidebar.php on line 42
+[21-Nov-2016 16:29:50 UTC] PHP Notice:  Undefined variable: post_catID in /var/www/html/osc-default/wp-content/themes/osc/sidebar.php on line 73
+[21-Nov-2016 16:29:50 UTC] PHP Notice:  Undefined variable: whitepaper_catID in /var/www/html/osc-default/wp-content/themes/osc/sidebar.php on line 106
+[21-Nov-2016 16:29:50 UTC] PHP Warning:  mysql_connect(): Headers and client library minor version mismatch. Headers:50547 Library:50631 in /var/www/html/osc-default/wp-includes/wp-db.php on line 1515
+[21-Nov-2016 16:30:06 UTC] PHP Warning:  mysql_connect(): Headers and client library minor version mismatch. Headers:50547 Library:50631 in /var/www/html/osc-default/wp-includes/wp-db.php on line 1515
+[21-Nov-2016 16:30:07 UTC] PHP Warning:  mysql_connect(): Headers and client library minor version mismatch. Headers:50547 Library:50631 in /var/www/html/osc-default/wp-includes/wp-db.php on line 1515
+[21-Nov-2016 16:30:08 UTC] PHP Warning:  mysql_connect(): Headers and client library minor version mismatch. Headers:50547 Library:50631 in /var/www/html/osc-default/wp-includes/wp-db.php on line 1515
+[21-Nov-2016 16:30:24 UTC] PHP Warning:  mysql_connect(): Headers and client library minor version mismatch. Headers:50547 Library:50631 in /var/www/html/osc-default/wp-includes/wp-db.php on line 1515
+[21-Nov-2016 16:31:11 UTC] PHP Warning:  mysql_connect(): Headers and client library minor version mismatch. Headers:50547 Library:50631 in /var/www/html/osc-default/wp-includes/wp-db.php on line 1515
+[21-Nov-2016 16:31:11 UTC] PHP Notice:  Undefined offset: 1 in /var/www/html/osc-default/wp-content/plugins/ads-by-datafeedrcom/inc/dfads.class.php on line 61
+[21-Nov-2016 16:31:11 UTC] PHP Notice:  Undefined index: _block_id in /var/www/html/osc-default/wp-content/plugins/ads-by-datafeedrcom/inc/dfads.class.php on line 205
+[21-Nov-2016 16:31:11 UTC] PHP Notice:  Undefined index: _block_id in /var/www/html/osc-default/wp-content/plugins/ads-by-datafeedrcom/inc/dfads.class.php on line 208
+[21-Nov-2016 16:31:35 UTC] PHP Warning:  mysql_connect(): Headers and client library minor version mismatch. Headers:50547 Library:50631 in /var/www/html/osc-default/wp-includes/wp-db.php on line 1515
+[21-Nov-2016 16:31:35 UTC] PHP Notice:  Undefined variable: webinar_catID in /var/www/html/osc-default/wp-content/themes/osc/sidebar.php on line 42
+[21-Nov-2016 16:31:35 UTC] PHP Notice:  Undefined variable: post_catID in /var/www/html/osc-default/wp-content/themes/osc/sidebar.php on line 73
+[21-Nov-2016 16:31:35 UTC] PHP Notice:  Undefined variable: whitepaper_catID in /var/www/html/osc-default/wp-content/themes/osc/sidebar.php on line 106
+[21-Nov-2016 16:31:43 UTC] PHP Warning:  mysql_connect(): Headers and client library minor version mismatch. Headers:50547 Library:50631 in /var/www/html/osc-default/wp-includes/wp-db.php on line 1515
+[21-Nov-2016 16:31:53 UTC] PHP Warning:  mysql_connect(): Headers and client library minor version mismatch. Headers:50547 Library:50631 in /var/www/html/osc-default/wp-includes/wp-db.php on line 1515
+[21-Nov-2016 16:31:54 UTC] PHP Warning:  mysql_connect(): Headers and client library minor version mismatch. Headers:50547 Library:50631 in /var/www/html/osc-default/wp-includes/wp-db.php on line 1515
+[21-Nov-2016 16:31:54 UTC] PHP Notice:  Undefined offset: 1 in /var/www/html/osc-default/wp-content/plugins/ads-by-datafeedrcom/inc/dfads.class.php on line 61
+[21-Nov-2016 16:31:54 UTC] PHP Notice:  Undefined index: _block_id in /var/www/html/osc-default/wp-content/plugins/ads-by-datafeedrcom/inc/dfads.class.php on line 205
+[21-Nov-2016 16:31:54 UTC] PHP Notice:  Undefined index: _block_id in /var/www/html/osc-default/wp-content/plugins/ads-by-datafeedrcom/inc/dfads.class.php on line 208
+[21-Nov-2016 16:31:57 UTC] PHP Warning:  mysql_connect(): Headers and client library minor version mismatch. Headers:50547 Library:50631 in /var/www/html/osc-default/wp-includes/wp-db.php on line 1515
+[21-Nov-2016 16:31:59 UTC] PHP Warning:  mysql_connect(): Headers and client library minor version mismatch. Headers:50547 Library:50631 in /var/www/html/osc-default/wp-includes/wp-db.php on line 1515
+[21-Nov-2016 16:32:06 UTC] PHP Warning:  mysql_connect(): Headers and client library minor version mismatch. Headers:50547 Library:50631 in /var/www/html/osc-default/wp-includes/wp-db.php on line 1515
+[21-Nov-2016 16:32:11 UTC] PHP Warning:  mysql_connect(): Headers and client library minor version mismatch. Headers:50547 Library:50631 in /var/www/html/osc-default/wp-includes/wp-db.php on line 1515
+[21-Nov-2016 16:32:18 UTC] PHP Warning:  mysql_connect(): Headers and client library minor version mismatch. Headers:50547 Library:50631 in /var/www/html/osc-default/wp-includes/wp-db.php on line 1515
+[21-Nov-2016 16:32:22 UTC] PHP Warning:  mysql_connect(): Headers and client library minor version mismatch. Headers:50547 Library:50631 in /var/www/html/osc-default/wp-includes/wp-db.php on line 1515
+[21-Nov-2016 16:32:23 UTC] PHP Warning:  mysql_connect(): Headers and client library minor version mismatch. Headers:50547 Library:50631 in /var/www/html/osc-default/wp-includes/wp-db.php on line 1515
+[21-Nov-2016 16:32:27 UTC] PHP Warning:  mysql_connect(): Headers and client library minor version mismatch. Headers:50547 Library:50631 in /var/www/html/osc-default/wp-includes/wp-db.php on line 1515
+[21-Nov-2016 16:33:21 UTC] PHP Warning:  mysql_connect(): Headers and client library minor version mismatch. Headers:50547 Library:50631 in /var/www/html/osc-default/wp-includes/wp-db.php on line 1515
+[21-Nov-2016 16:34:24 UTC] PHP Warning:  mysql_connect(): Headers and client library minor version mismatch. Headers:50547 Library:50631 in /var/www/html/osc-default/wp-includes/wp-db.php on line 1515
+[21-Nov-2016 16:35:24 UTC] PHP Warning:  mysql_connect(): Headers and client library minor version mismatch. Headers:50547 Library:50631 in /var/www/html/osc-default/wp-includes/wp-db.php on line 1515
+[21-Nov-2016 16:35:33 UTC] PHP Warning:  mysql_connect(): Headers and client library minor version mismatch. Headers:50547 Library:50631 in /var/www/html/osc-default/wp-includes/wp-db.php on line 1515
+[21-Nov-2016 16:35:34 UTC] PHP Warning:  mysql_connect(): Headers and client library minor version mismatch. Headers:50547 Library:50631 in /var/www/html/osc-default/wp-includes/wp-db.php on line 1515
+[21-Nov-2016 16:36:24 UTC] PHP Warning:  mysql_connect(): Headers and client library minor version mismatch. Headers:50547 Library:50631 in /var/www/html/osc-default/wp-includes/wp-db.php on line 1515
+[21-Nov-2016 16:37:24 UTC] PHP Warning:  mysql_connect(): Headers and client library minor version mismatch. Headers:50547 Library:50631 in /var/www/html/osc-default/wp-includes/wp-db.php on line 1515
+[21-Nov-2016 16:38:24 UTC] PHP Warning:  mysql_connect(): Headers and client library minor version mismatch. Headers:50547 Library:50631 in /var/www/html/osc-default/wp-includes/wp-db.php on line 1515
+[21-Nov-2016 16:38:27 UTC] PHP Warning:  mysql_connect(): Headers and client library minor version mismatch. Headers:50547 Library:50631 in /var/www/html/osc-default/wp-includes/wp-db.php on line 1515
+[21-Nov-2016 16:38:48 UTC] PHP Warning:  mysql_connect(): Headers and client library minor version mismatch. Headers:50547 Library:50631 in /var/www/html/osc-default/wp-includes/wp-db.php on line 1515
+[21-Nov-2016 16:38:49 UTC] PHP Notice:  Undefined variable: webinar_catID in /var/www/html/osc-default/wp-content/themes/osc/sidebar.php on line 42
+[21-Nov-2016 16:38:49 UTC] PHP Notice:  Undefined variable: post_catID in /var/www/html/osc-default/wp-content/themes/osc/sidebar.php on line 73
+[21-Nov-2016 16:38:49 UTC] PHP Notice:  Undefined variable: whitepaper_catID in /var/www/html/osc-default/wp-content/themes/osc/sidebar.php on line 106
+[21-Nov-2016 16:38:49 UTC] PHP Warning:  mysql_connect(): Headers and client library minor version mismatch. Headers:50547 Library:50631 in /var/www/html/osc-default/wp-includes/wp-db.php on line 1515
+[21-Nov-2016 16:38:50 UTC] PHP Notice:  Trying to get property of non-object in /var/www/html/osc-default/wp-content/themes/osc/sidebar.php on line 5
+[21-Nov-2016 16:38:50 UTC] PHP Notice:  Undefined variable: webinar_catID in /var/www/html/osc-default/wp-content/themes/osc/sidebar.php on line 42
+[21-Nov-2016 16:38:50 UTC] PHP Notice:  Undefined variable: post_catID in /var/www/html/osc-default/wp-content/themes/osc/sidebar.php on line 73
+[21-Nov-2016 16:38:50 UTC] PHP Notice:  Undefined variable: whitepaper_catID in /var/www/html/osc-default/wp-content/themes/osc/sidebar.php on line 106
+[21-Nov-2016 16:38:50 UTC] PHP Warning:  mysql_connect(): Headers and client library minor version mismatch. Headers:50547 Library:50631 in /var/www/html/osc-default/wp-includes/wp-db.php on line 1515
+[21-Nov-2016 16:38:50 UTC] PHP Warning:  mysql_connect(): Headers and client library minor version mismatch. Headers:50547 Library:50631 in /var/www/html/osc-default/wp-includes/wp-db.php on line 1515
+[21-Nov-2016 16:39:30 UTC] PHP Warning:  mysql_connect(): Headers and client library minor version mismatch. Headers:50547 Library:50631 in /var/www/html/osc-default/wp-includes/wp-db.php on line 1515
+[21-Nov-2016 16:40:24 UTC] PHP Warning:  mysql_connect(): Headers and client library minor version mismatch. Headers:50547 Library:50631 in /var/www/html/osc-default/wp-includes/wp-db.php on line 1515
+[21-Nov-2016 16:40:28 UTC] PHP Warning:  mysql_connect(): Headers and client library minor version mismatch. Headers:50547 Library:50631 in /var/www/html/osc-default/wp-includes/wp-db.php on line 1515
+[21-Nov-2016 16:40:30 UTC] PHP Warning:  mysql_connect(): Headers and client library minor version mismatch. Headers:50547 Library:50631 in /var/www/html/osc-default/wp-includes/wp-db.php on line 1515
+[21-Nov-2016 16:40:30 UTC] PHP Notice:  Undefined variable: webinar_catID in /var/www/html/osc-default/wp-content/themes/osc/sidebar.php on line 42
+[21-Nov-2016 16:40:30 UTC] PHP Notice:  Undefined variable: post_catID in /var/www/html/osc-default/wp-content/themes/osc/sidebar.php on line 73
+[21-Nov-2016 16:40:30 UTC] PHP Notice:  Undefined variable: whitepaper_catID in /var/www/html/osc-default/wp-content/themes/osc/sidebar.php on line 106
+[21-Nov-2016 16:40:31 UTC] PHP Warning:  mysql_connect(): Headers and client library minor version mismatch. Headers:50547 Library:50631 in /var/www/html/osc-default/wp-includes/wp-db.php on line 1515
+[21-Nov-2016 16:40:53 UTC] PHP Warning:  mysql_connect(): Headers and client library minor version mismatch. Headers:50547 Library:50631 in /var/www/html/osc-default/wp-includes/wp-db.php on line 1515
+[21-Nov-2016 16:41:03 UTC] PHP Warning:  mysql_connect(): Headers and client library minor version mismatch. Headers:50547 Library:50631 in /var/www/html/osc-default/wp-includes/wp-db.php on line 1515
+[21-Nov-2016 16:41:04 UTC] PHP Notice:  Undefined variable: webinar_catID in /var/www/html/osc-default/wp-content/themes/osc/sidebar.php on line 42
+[21-Nov-2016 16:41:04 UTC] PHP Notice:  Undefined variable: post_catID in /var/www/html/osc-default/wp-content/themes/osc/sidebar.php on line 73
+[21-Nov-2016 16:41:04 UTC] PHP Notice:  Undefined variable: whitepaper_catID in /var/www/html/osc-default/wp-content/themes/osc/sidebar.php on line 106
+[21-Nov-2016 16:41:04 UTC] PHP Warning:  mysql_connect(): Headers and client library minor version mismatch. Headers:50547 Library:50631 in /var/www/html/osc-default/wp-includes/wp-db.php on line 1515
+[21-Nov-2016 16:41:05 UTC] PHP Notice:  Trying to get property of non-object in /var/www/html/osc-default/wp-content/themes/osc/sidebar.php on line 5
+[21-Nov-2016 16:41:05 UTC] PHP Notice:  Undefined variable: webinar_catID in /var/www/html/osc-default/wp-content/themes/osc/sidebar.php on line 42
+[21-Nov-2016 16:41:05 UTC] PHP Notice:  Undefined variable: post_catID in /var/www/html/osc-default/wp-content/themes/osc/sidebar.php on line 73
+[21-Nov-2016 16:41:05 UTC] PHP Notice:  Undefined variable: whitepaper_catID in /var/www/html/osc-default/wp-content/themes/osc/sidebar.php on line 106
+[21-Nov-2016 16:41:05 UTC] PHP Warning:  mysql_connect(): Headers and client library minor version mismatch. Headers:50547 Library:50631 in /var/www/html/osc-default/wp-includes/wp-db.php on line 1515
+[21-Nov-2016 16:41:05 UTC] PHP Warning:  mysql_connect(): Headers and client library minor version mismatch. Headers:50547 Library:50631 in /var/www/html/osc-default/wp-includes/wp-db.php on line 1515
+[21-Nov-2016 16:41:44 UTC] PHP Warning:  mysql_connect(): Headers and client library minor version mismatch. Headers:50547 Library:50631 in /var/www/html/osc-default/wp-includes/wp-db.php on line 1515
+[21-Nov-2016 16:41:52 UTC] PHP Warning:  mysql_connect(): Headers and client library minor version mismatch. Headers:50547 Library:50631 in /var/www/html/osc-default/wp-includes/wp-db.php on line 1515
+[21-Nov-2016 16:41:53 UTC] PHP Notice:  Undefined variable: webinar_catID in /var/www/html/osc-default/wp-content/themes/osc/sidebar.php on line 42
+[21-Nov-2016 16:41:53 UTC] PHP Notice:  Undefined variable: post_catID in /var/www/html/osc-default/wp-content/themes/osc/sidebar.php on line 73
+[21-Nov-2016 16:41:53 UTC] PHP Notice:  Undefined variable: whitepaper_catID in /var/www/html/osc-default/wp-content/themes/osc/sidebar.php on line 106
+[21-Nov-2016 16:41:53 UTC] PHP Warning:  mysql_connect(): Headers and client library minor version mismatch. Headers:50547 Library:50631 in /var/www/html/osc-default/wp-includes/wp-db.php on line 1515
+[21-Nov-2016 16:41:54 UTC] PHP Notice:  Trying to get property of non-object in /var/www/html/osc-default/wp-content/themes/osc/sidebar.php on line 5
+[21-Nov-2016 16:41:54 UTC] PHP Notice:  Undefined variable: webinar_catID in /var/www/html/osc-default/wp-content/themes/osc/sidebar.php on line 42
+[21-Nov-2016 16:41:54 UTC] PHP Notice:  Undefined variable: post_catID in /var/www/html/osc-default/wp-content/themes/osc/sidebar.php on line 73
+[21-Nov-2016 16:41:54 UTC] PHP Notice:  Undefined variable: whitepaper_catID in /var/www/html/osc-default/wp-content/themes/osc/sidebar.php on line 106
+[21-Nov-2016 16:41:54 UTC] PHP Warning:  mysql_connect(): Headers and client library minor version mismatch. Headers:50547 Library:50631 in /var/www/html/osc-default/wp-includes/wp-db.php on line 1515
+[21-Nov-2016 16:41:54 UTC] PHP Warning:  mysql_connect(): Headers and client library minor version mismatch. Headers:50547 Library:50631 in /var/www/html/osc-default/wp-includes/wp-db.php on line 1515
+[21-Nov-2016 16:42:47 UTC] PHP Warning:  mysql_connect(): Headers and client library minor version mismatch. Headers:50547 Library:50631 in /var/www/html/osc-default/wp-includes/wp-db.php on line 1515
+[21-Nov-2016 16:43:09 UTC] PHP Warning:  mysql_connect(): Headers and client library minor version mismatch. Headers:50547 Library:50631 in /var/www/html/osc-default/wp-includes/wp-db.php on line 1515
+[21-Nov-2016 16:43:09 UTC] PHP Notice:  Undefined variable: webinar_catID in /var/www/html/osc-default/wp-content/themes/osc/sidebar.php on line 42
+[21-Nov-2016 16:43:09 UTC] PHP Notice:  Undefined variable: post_catID in /var/www/html/osc-default/wp-content/themes/osc/sidebar.php on line 73
+[21-Nov-2016 16:43:09 UTC] PHP Notice:  Undefined variable: whitepaper_catID in /var/www/html/osc-default/wp-content/themes/osc/sidebar.php on line 106
+[21-Nov-2016 16:43:09 UTC] PHP Warning:  mysql_connect(): Headers and client library minor version mismatch. Headers:50547 Library:50631 in /var/www/html/osc-default/wp-includes/wp-db.php on line 1515
+[21-Nov-2016 16:43:10 UTC] PHP Warning:  mysql_connect(): Headers and client library minor version mismatch. Headers:50547 Library:50631 in /var/www/html/osc-default/wp-includes/wp-db.php on line 1515
+[21-Nov-2016 16:43:10 UTC] PHP Notice:  Trying to get property of non-object in /var/www/html/osc-default/wp-content/themes/osc/sidebar.php on line 5
+[21-Nov-2016 16:43:10 UTC] PHP Notice:  Undefined variable: webinar_catID in /var/www/html/osc-default/wp-content/themes/osc/sidebar.php on line 42
+[21-Nov-2016 16:43:10 UTC] PHP Notice:  Undefined variable: post_catID in /var/www/html/osc-default/wp-content/themes/osc/sidebar.php on line 73
+[21-Nov-2016 16:43:10 UTC] PHP Notice:  Undefined variable: whitepaper_catID in /var/www/html/osc-default/wp-content/themes/osc/sidebar.php on line 106
+[21-Nov-2016 16:43:11 UTC] PHP Warning:  mysql_connect(): Headers and client library minor version mismatch. Headers:50547 Library:50631 in /var/www/html/osc-default/wp-includes/wp-db.php on line 1515
+[21-Nov-2016 16:43:27 UTC] PHP Warning:  mysql_connect(): Headers and client library minor version mismatch. Headers:50547 Library:50631 in /var/www/html/osc-default/wp-includes/wp-db.php on line 1515
+[21-Nov-2016 16:43:28 UTC] PHP Notice:  Undefined variable: webinar_catID in /var/www/html/osc-default/wp-content/themes/osc/sidebar.php on line 42
+[21-Nov-2016 16:43:28 UTC] PHP Notice:  Undefined variable: post_catID in /var/www/html/osc-default/wp-content/themes/osc/sidebar.php on line 73
+[21-Nov-2016 16:43:28 UTC] PHP Notice:  Undefined variable: whitepaper_catID in /var/www/html/osc-default/wp-content/themes/osc/sidebar.php on line 106
+[21-Nov-2016 16:43:29 UTC] PHP Warning:  mysql_connect(): Headers and client library minor version mismatch. Headers:50547 Library:50631 in /var/www/html/osc-default/wp-includes/wp-db.php on line 1515
+[21-Nov-2016 16:43:29 UTC] PHP Notice:  Trying to get property of non-object in /var/www/html/osc-default/wp-content/themes/osc/sidebar.php on line 5
+[21-Nov-2016 16:43:29 UTC] PHP Notice:  Undefined variable: webinar_catID in /var/www/html/osc-default/wp-content/themes/osc/sidebar.php on line 42
+[21-Nov-2016 16:43:29 UTC] PHP Notice:  Undefined variable: post_catID in /var/www/html/osc-default/wp-content/themes/osc/sidebar.php on line 73
+[21-Nov-2016 16:43:29 UTC] PHP Notice:  Undefined variable: whitepaper_catID in /var/www/html/osc-default/wp-content/themes/osc/sidebar.php on line 106
+[21-Nov-2016 16:43:30 UTC] PHP Warning:  mysql_connect(): Headers and client library minor version mismatch. Headers:50547 Library:50631 in /var/www/html/osc-default/wp-includes/wp-db.php on line 1515
+[21-Nov-2016 16:43:30 UTC] PHP Warning:  mysql_connect(): Headers and client library minor version mismatch. Headers:50547 Library:50631 in /var/www/html/osc-default/wp-includes/wp-db.php on line 1515
+[21-Nov-2016 16:43:47 UTC] PHP Warning:  mysql_connect(): Headers and client library minor version mismatch. Headers:50547 Library:50631 in /var/www/html/osc-default/wp-includes/wp-db.php on line 1515
+[21-Nov-2016 16:43:48 UTC] PHP Notice:  Undefined variable: webinar_catID in /var/www/html/osc-default/wp-content/themes/osc/sidebar.php on line 42
+[21-Nov-2016 16:43:48 UTC] PHP Notice:  Undefined variable: post_catID in /var/www/html/osc-default/wp-content/themes/osc/sidebar.php on line 73
+[21-Nov-2016 16:43:48 UTC] PHP Notice:  Undefined variable: whitepaper_catID in /var/www/html/osc-default/wp-content/themes/osc/sidebar.php on line 106
+[21-Nov-2016 16:43:49 UTC] PHP Warning:  mysql_connect(): Headers and client library minor version mismatch. Headers:50547 Library:50631 in /var/www/html/osc-default/wp-includes/wp-db.php on line 1515
+[21-Nov-2016 16:43:49 UTC] PHP Notice:  Trying to get property of non-object in /var/www/html/osc-default/wp-content/themes/osc/sidebar.php on line 5
+[21-Nov-2016 16:43:49 UTC] PHP Notice:  Undefined variable: webinar_catID in /var/www/html/osc-default/wp-content/themes/osc/sidebar.php on line 42
+[21-Nov-2016 16:43:49 UTC] PHP Notice:  Undefined variable: post_catID in /var/www/html/osc-default/wp-content/themes/osc/sidebar.php on line 73
+[21-Nov-2016 16:43:49 UTC] PHP Notice:  Undefined variable: whitepaper_catID in /var/www/html/osc-default/wp-content/themes/osc/sidebar.php on line 106
+[21-Nov-2016 16:43:50 UTC] PHP Warning:  mysql_connect(): Headers and client library minor version mismatch. Headers:50547 Library:50631 in /var/www/html/osc-default/wp-includes/wp-db.php on line 1515
+[21-Nov-2016 16:43:50 UTC] PHP Warning:  mysql_connect(): Headers and client library minor version mismatch. Headers:50547 Library:50631 in /var/www/html/osc-default/wp-includes/wp-db.php on line 1515
+[21-Nov-2016 16:44:18 UTC] PHP Warning:  mysql_connect(): Headers and client library minor version mismatch. Headers:50547 Library:50631 in /var/www/html/osc-default/wp-includes/wp-db.php on line 1515
+[21-Nov-2016 16:44:56 UTC] PHP Warning:  mysql_connect(): Headers and client library minor version mismatch. Headers:50547 Library:50631 in /var/www/html/osc-default/wp-includes/wp-db.php on line 1515
+[21-Nov-2016 16:45:15 UTC] PHP Warning:  mysql_connect(): Headers and client library minor version mismatch. Headers:50547 Library:50631 in /var/www/html/osc-default/wp-includes/wp-db.php on line 1515
+[21-Nov-2016 16:45:24 UTC] PHP Warning:  mysql_connect(): Headers and client library minor version mismatch. Headers:50547 Library:50631 in /var/www/html/osc-default/wp-includes/wp-db.php on line 1515
+[21-Nov-2016 16:45:39 UTC] PHP Warning:  mysql_connect(): Headers and client library minor version mismatch. Headers:50547 Library:50631 in /var/www/html/osc-default/wp-includes/wp-db.php on line 1515
+[21-Nov-2016 16:45:57 UTC] PHP Warning:  mysql_connect(): Headers and client library minor version mismatch. Headers:50547 Library:50631 in /var/www/html/osc-default/wp-includes/wp-db.php on line 1515
+[21-Nov-2016 16:45:58 UTC] PHP Notice:  Trying to get property of non-object in /var/www/html/osc-default/wp-content/themes/osc/sidebar.php on line 5
+[21-Nov-2016 16:45:58 UTC] PHP Notice:  Undefined variable: webinar_catID in /var/www/html/osc-default/wp-content/themes/osc/sidebar.php on line 42
+[21-Nov-2016 16:45:58 UTC] PHP Notice:  Undefined variable: post_catID in /var/www/html/osc-default/wp-content/themes/osc/sidebar.php on line 73
+[21-Nov-2016 16:45:58 UTC] PHP Notice:  Undefined variable: whitepaper_catID in /var/www/html/osc-default/wp-content/themes/osc/sidebar.php on line 106
+[21-Nov-2016 16:46:18 UTC] PHP Warning:  mysql_connect(): Headers and client library minor version mismatch. Headers:50547 Library:50631 in /var/www/html/osc-default/wp-includes/wp-db.php on line 1515
+[21-Nov-2016 16:46:25 UTC] PHP Warning:  mysql_connect(): Headers and client library minor version mismatch. Headers:50547 Library:50631 in /var/www/html/osc-default/wp-includes/wp-db.php on line 1515
+[21-Nov-2016 16:46:26 UTC] PHP Warning:  mysql_connect(): Headers and client library minor version mismatch. Headers:50547 Library:50631 in /var/www/html/osc-default/wp-includes/wp-db.php on line 1515
+[21-Nov-2016 16:46:29 UTC] PHP Warning:  mysql_connect(): Headers and client library minor version mismatch. Headers:50547 Library:50631 in /var/www/html/osc-default/wp-includes/wp-db.php on line 1515
+[21-Nov-2016 16:47:31 UTC] PHP Warning:  mysql_connect(): Headers and client library minor version mismatch. Headers:50547 Library:50631 in /var/www/html/osc-default/wp-includes/wp-db.php on line 1515
+[21-Nov-2016 16:48:32 UTC] PHP Warning:  mysql_connect(): Headers and client library minor version mismatch. Headers:50547 Library:50631 in /var/www/html/osc-default/wp-includes/wp-db.php on line 1515
+[21-Nov-2016 16:50:01 UTC] PHP Warning:  mysql_connect(): Headers and client library minor version mismatch. Headers:50547 Library:50631 in /var/www/html/osc-default/wp-includes/wp-db.php on line 1515
+[21-Nov-2016 16:50:01 UTC] PHP Warning:  mysql_connect(): Headers and client library minor version mismatch. Headers:50547 Library:50631 in /var/www/html/osc-default/wp-includes/wp-db.php on line 1515
+[21-Nov-2016 16:50:02 UTC] PHP Notice:  Undefined variable: webinar_catID in /var/www/html/osc-default/wp-content/themes/osc/sidebar.php on line 42
+[21-Nov-2016 16:50:02 UTC] PHP Notice:  Undefined variable: post_catID in /var/www/html/osc-default/wp-content/themes/osc/sidebar.php on line 73
+[21-Nov-2016 16:50:02 UTC] PHP Notice:  Undefined variable: whitepaper_catID in /var/www/html/osc-default/wp-content/themes/osc/sidebar.php on line 106
+[21-Nov-2016 16:50:06 UTC] PHP Warning:  mysql_connect(): Headers and client library minor version mismatch. Headers:50547 Library:50631 in /var/www/html/osc-default/wp-includes/wp-db.php on line 1515
+[21-Nov-2016 16:50:07 UTC] PHP Notice:  Trying to get property of non-object in /var/www/html/osc-default/wp-content/themes/osc/sidebar.php on line 5
+[21-Nov-2016 16:50:07 UTC] PHP Notice:  Undefined variable: webinar_catID in /var/www/html/osc-default/wp-content/themes/osc/sidebar.php on line 42
+[21-Nov-2016 16:50:07 UTC] PHP Notice:  Undefined variable: post_catID in /var/www/html/osc-default/wp-content/themes/osc/sidebar.php on line 73
+[21-Nov-2016 16:50:07 UTC] PHP Notice:  Undefined variable: whitepaper_catID in /var/www/html/osc-default/wp-content/themes/osc/sidebar.php on line 106
+[21-Nov-2016 16:50:10 UTC] PHP Warning:  mysql_connect(): Headers and client library minor version mismatch. Headers:50547 Library:50631 in /var/www/html/osc-default/wp-includes/wp-db.php on line 1515
+[21-Nov-2016 16:50:11 UTC] PHP Warning:  mysql_connect(): Headers and client library minor version mismatch. Headers:50547 Library:50631 in /var/www/html/osc-default/wp-includes/wp-db.php on line 1515
+[21-Nov-2016 16:50:24 UTC] PHP Warning:  mysql_connect(): Headers and client library minor version mismatch. Headers:50547 Library:50631 in /var/www/html/osc-default/wp-includes/wp-db.php on line 1515
+[21-Nov-2016 16:50:32 UTC] PHP Warning:  mysql_connect(): Headers and client library minor version mismatch. Headers:50547 Library:50631 in /var/www/html/osc-default/wp-includes/wp-db.php on line 1515
+[21-Nov-2016 16:50:33 UTC] PHP Notice:  Undefined variable: webinar_catID in /var/www/html/osc-default/wp-content/themes/osc/sidebar.php on line 42
+[21-Nov-2016 16:50:33 UTC] PHP Notice:  Undefined variable: post_catID in /var/www/html/osc-default/wp-content/themes/osc/sidebar.php on line 73
+[21-Nov-2016 16:50:33 UTC] PHP Notice:  Undefined variable: whitepaper_catID in /var/www/html/osc-default/wp-content/themes/osc/sidebar.php on line 106
+[21-Nov-2016 16:50:35 UTC] PHP Warning:  mysql_connect(): Headers and client library minor version mismatch. Headers:50547 Library:50631 in /var/www/html/osc-default/wp-includes/wp-db.php on line 1515
+[21-Nov-2016 16:50:35 UTC] PHP Notice:  Trying to get property of non-object in /var/www/html/osc-default/wp-content/themes/osc/sidebar.php on line 5
+[21-Nov-2016 16:50:35 UTC] PHP Notice:  Undefined variable: webinar_catID in /var/www/html/osc-default/wp-content/themes/osc/sidebar.php on line 42
+[21-Nov-2016 16:50:35 UTC] PHP Notice:  Undefined variable: post_catID in /var/www/html/osc-default/wp-content/themes/osc/sidebar.php on line 73
+[21-Nov-2016 16:50:35 UTC] PHP Notice:  Undefined variable: whitepaper_catID in /var/www/html/osc-default/wp-content/themes/osc/sidebar.php on line 106
+[21-Nov-2016 16:50:35 UTC] PHP Warning:  mysql_connect(): Headers and client library minor version mismatch. Headers:50547 Library:50631 in /var/www/html/osc-default/wp-includes/wp-db.php on line 1515
+[21-Nov-2016 16:50:35 UTC] PHP Warning:  mysql_connect(): Headers and client library minor version mismatch. Headers:50547 Library:50631 in /var/www/html/osc-default/wp-includes/wp-db.php on line 1515
+[21-Nov-2016 16:51:55 UTC] PHP Warning:  mysql_connect(): Headers and client library minor version mismatch. Headers:50547 Library:50631 in /var/www/html/osc-default/wp-includes/wp-db.php on line 1515
+[21-Nov-2016 16:53:02 UTC] PHP Warning:  mysql_connect(): Headers and client library minor version mismatch. Headers:50547 Library:50631 in /var/www/html/osc-default/wp-includes/wp-db.php on line 1515
+[21-Nov-2016 16:53:02 UTC] PHP Warning:  mysql_connect(): Headers and client library minor version mismatch. Headers:50547 Library:50631 in /var/www/html/osc-default/wp-includes/wp-db.php on line 1515

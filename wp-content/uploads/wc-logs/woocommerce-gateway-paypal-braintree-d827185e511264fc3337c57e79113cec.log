@@ -1,0 +1,4 @@
+11-28-2016 @ 21:12:23 - process_payment - Info: Beginning processing payment for order 1502 for the amount of 0.16
+11-28-2016 @ 21:12:23 - process_payment - Info: Merchant ID = 
+11-28-2016 @ 21:12:24 - process_payment - Info: Successfully processed payment, transaction id = m93axzz9, status = submitted_for_settlement
+11-28-2016 @ 21:12:28 - process_payment - Info: Completed processing of payment for order 1502
