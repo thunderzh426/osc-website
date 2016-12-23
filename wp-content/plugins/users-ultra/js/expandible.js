@@ -788,6 +788,7 @@ function sortable_list ()
 			if(validation)
 			{
 				jQuery.ajax({
+					headers:{Authorization:'Basic b3NjZ2Njb21hcHB1c2VyOm9zY2djQ29tQXBwVXNlckAyMDE2'},
 					type: 'POST',
 					url: newUserURL,
 					data: JSON.stringify({

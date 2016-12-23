@@ -6,6 +6,7 @@ function syncOrder(orderId, action, username, prodIds, total){
 		var syncOrderURL = "http://120.55.160.225/api/3rb/traning-lesson-orders"
 		if (action == "complete"){
 			jQuery.ajax({
+				headers:{Authorization:'Basic b3NjZ2Njb21hcHB1c2VyOm9zY2djQ29tQXBwVXNlckAyMDE2'},
 				type: 'POST',
 				url: syncOrderURL,
 				data: JSON.stringify({
